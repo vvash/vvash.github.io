@@ -1,9 +1,6 @@
-@charset UTF-8;
 
-@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:400&amp;subset=cyrillic-ext,latin);
-@import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,700&amp;subset=cyrillic-ext,latin);
-@import url(http://fonts.googleapis.com/css?family=PT+Sans+Narrow:400&amp;subset=cyrillic-ext,latin);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400);
+
+
 
 @media all and (-webkit-min-device-pixel-ratio:0) {
     @font-face {
@@ -23,7 +20,7 @@
 #3 Main menu
 #4 Content styling
 #5 Comments
-#6 Галерея
+#6 Gallery
 #7 Sidebar styling
 #8 Footer
 
@@ -1867,7 +1864,7 @@ input[type=text]:focus {
 
 
 
-/* #6 Галерея */
+/* #6 Gallery */
 
 .photo-gallery-blocks {
     display: block;
