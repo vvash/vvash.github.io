@@ -2,136 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f4ce0af-33cd-4944-a97d-4a71cb8a121a" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/floor/parquet-glue-choice-01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/content/images/floor/parquet-glue-choice-02.jpg" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-07.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/floor/substrates-for-laminate-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/floor/substrates-for-laminate-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/floor/substrates-for-laminate-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/parquet-glue-choice-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/parquet-glue-choice-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/new-look-at-radiators-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/new-look-at-radiators-04.jpg" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/interior-and-facade/parquet-glue-choice.html" afterPath="$PROJECT_DIR$/floor/parquet-glue-choice.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-01.jpg" afterPath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-02.jpg" afterPath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-03.jpg" afterPath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-04.jpg" afterPath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-05.jpg" afterPath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-06.jpg" afterPath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/doors/how-to-choose-the-best-doors-01.jpg" afterPath="$PROJECT_DIR$/content/images/doors/how-to-choose-the-best-doors-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/doors/how-to-choose-the-best-doors-02.jpg" afterPath="$PROJECT_DIR$/content/images/doors/how-to-choose-the-best-doors-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/floor/secrets-of-laminate-laying-01.jpg" afterPath="$PROJECT_DIR$/content/images/floor/secrets-of-laminate-laying-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/floor/secrets-of-laminate-laying-02.jpg" afterPath="$PROJECT_DIR$/content/images/floor/secrets-of-laminate-laying-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/floor/secrets-of-laminate-laying-03.jpg" afterPath="$PROJECT_DIR$/content/images/floor/secrets-of-laminate-laying-03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/floor/subfloor-preparation-nuances-01.jpg" afterPath="$PROJECT_DIR$/content/images/floor/subfloor-preparation-nuances-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/floor/subfloor-preparation-nuances-02.jpg" afterPath="$PROJECT_DIR$/content/images/floor/subfloor-preparation-nuances-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/floor/substrates-for-laminate-01.jpg" afterPath="$PROJECT_DIR$/content/images/floor/substrates-for-laminate-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/floor/substrates-for-laminate-02.jpg" afterPath="$PROJECT_DIR$/content/images/floor/substrates-for-laminate-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/basement-leaks-how-to-solve-this-problem-01.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/basement-leaks-how-to-solve-this-problem-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/basement-leaks-how-to-solve-this-problem-02.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/basement-leaks-how-to-solve-this-problem-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/crevice-foundation-02.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/crevice-foundation-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/foundation-and-basement-insulation-01.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/foundation-and-basement-insulation-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/foundation-and-basement-insulation-02.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/foundation-and-basement-insulation-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/foundation-and-basement-insulation-03.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/foundation-and-basement-insulation-03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/foundation-formwork-01.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/foundation-formwork-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/foundation-formwork-02.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/foundation-formwork-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/piling-foundation-01.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/piling-foundation-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/piling-foundation-02.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/piling-foundation-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/foundation/сrevice-foundation-01.jpg" afterPath="$PROJECT_DIR$/content/images/foundation/сrevice-foundation-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/all-you-wanted-to-know-about-the-interior-stairs-01.jpg" afterPath="$PROJECT_DIR$/content/images/interior-and-facade/all-you-wanted-to-know-about-the-interior-stairs-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/all-you-wanted-to-know-about-the-interior-stairs-02.jpg" afterPath="$PROJECT_DIR$/content/images/interior-and-facade/all-you-wanted-to-know-about-the-interior-stairs-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/mineral-wool-as-coldprotection-and-soundproofing-material-01.jpg" afterPath="$PROJECT_DIR$/content/images/interior-and-facade/mineral-wool-as-coldprotection-and-soundproofing-material-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/mineral-wool-as-coldprotection-and-soundproofing-material-02.jpg" afterPath="$PROJECT_DIR$/content/images/interior-and-facade/mineral-wool-as-coldprotection-and-soundproofing-material-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/plaster-facades-all-secrets-01.jpg" afterPath="$PROJECT_DIR$/content/images/interior-and-facade/plaster-facades-all-secrets-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/plaster-facades-all-secrets-02.jpg" afterPath="$PROJECT_DIR$/content/images/interior-and-facade/plaster-facades-all-secrets-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/venecian-plaster-it-is-very-simple-01.jpg" afterPath="$PROJECT_DIR$/content/images/interior-and-facade/venecian-plaster-it-is-very-simple-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/interior-and-facade/venecian-plaster-it-is-very-simple-02.jpg" afterPath="$PROJECT_DIR$/content/images/interior-and-facade/venecian-plaster-it-is-very-simple-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/mansard/how-to-build-a-veranda-01.jpg" afterPath="$PROJECT_DIR$/content/images/mansard/how-to-build-a-veranda-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/mansard/how-to-build-a-veranda-02.jpg" afterPath="$PROJECT_DIR$/content/images/mansard/how-to-build-a-veranda-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/mansard/mansard-insulation-01.jpg" afterPath="$PROJECT_DIR$/content/images/mansard/mansard-insulation-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/mansard/mansard-insulation-02.jpg" afterPath="$PROJECT_DIR$/content/images/mansard/mansard-insulation-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/cement-sand-roof-tile-01.jpg" afterPath="$PROJECT_DIR$/content/images/roof/cement-sand-roof-tile-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/cement-sand-roof-tile-02.jpg" afterPath="$PROJECT_DIR$/content/images/roof/cement-sand-roof-tile-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/cone-shaped-roof-01.jpg" afterPath="$PROJECT_DIR$/content/images/roof/cone-shaped-roof-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/cone-shaped-roof-02.jpg" afterPath="$PROJECT_DIR$/content/images/roof/cone-shaped-roof-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/flat-roof-01.jpg" afterPath="$PROJECT_DIR$/content/images/roof/flat-roof-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/flat-roof-02.jpg" afterPath="$PROJECT_DIR$/content/images/roof/flat-roof-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/flat-roof-waterproofing-01.jpg" afterPath="$PROJECT_DIR$/content/images/roof/flat-roof-waterproofing-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/flat-roof-waterproofing-02.jpg" afterPath="$PROJECT_DIR$/content/images/roof/flat-roof-waterproofing-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/how-to-calculate-the-roof-slope-01.jpg" afterPath="$PROJECT_DIR$/content/images/roof/how-to-calculate-the-roof-slope-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/how-to-calculate-the-roof-slope-02.jpg" afterPath="$PROJECT_DIR$/content/images/roof/how-to-calculate-the-roof-slope-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/metal-roof-tile-soundproofing-01.jpg" afterPath="$PROJECT_DIR$/content/images/roof/metal-roof-tile-soundproofing-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/metal-roof-tile-soundproofing-02.jpg" afterPath="$PROJECT_DIR$/content/images/roof/metal-roof-tile-soundproofing-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/slate-roof-01.jpg" afterPath="$PROJECT_DIR$/content/images/roof/slate-roof-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/roof/slate-roof-02.jpg" afterPath="$PROJECT_DIR$/content/images/roof/slate-roof-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/all-about-rainwater-01.jpg" afterPath="$PROJECT_DIR$/content/images/services/all-about-rainwater-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/all-about-rainwater-02.jpg" afterPath="$PROJECT_DIR$/content/images/services/all-about-rainwater-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/heating-systems-how-to-choose-01.jpg" afterPath="$PROJECT_DIR$/content/images/services/heating-systems-how-to-choose-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/heating-systems-how-to-choose-02.jpg" afterPath="$PROJECT_DIR$/content/images/services/heating-systems-how-to-choose-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/new-look-at-radiators-01.jpg" afterPath="$PROJECT_DIR$/content/images/services/new-look-at-radiators-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/new-look-at-radiators-02.jpg" afterPath="$PROJECT_DIR$/content/images/services/new-look-at-radiators-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-01.jpg" afterPath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-02.jpg" afterPath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-03.jpg" afterPath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-04.jpg" afterPath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-05.jpg" afterPath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-06.jpg" afterPath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-06.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/sewage-treatment-systems-01.jpg" afterPath="$PROJECT_DIR$/content/images/services/sewage-treatment-systems-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/services/sewage-treatment-systems-02.jpg" afterPath="$PROJECT_DIR$/content/images/services/sewage-treatment-systems-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-02.jpg" afterPath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-03.jpg" afterPath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-03.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-04.jpg" afterPath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-04.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-05.jpg" afterPath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-05.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/walls/walls-decoration-plasterboard-01.jpg" afterPath="$PROJECT_DIR$/content/images/walls/walls-decoration-plasterboard-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/walls/walls-decoration-plasterboard-02.jpg" afterPath="$PROJECT_DIR$/content/images/walls/walls-decoration-plasterboard-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/walls/wood-protection-02.jpg" afterPath="$PROJECT_DIR$/content/images/walls/wood-protection-02.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/windows/how-to-choose-the-best-windows-01.jpg" afterPath="$PROJECT_DIR$/content/images/windows/how-to-choose-the-best-windows-01.jpg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/content/images/windows/how-to-choose-the-best-windows-02.jpg" afterPath="$PROJECT_DIR$/content/images/windows/how-to-choose-the-best-windows-02.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ceiling.html" afterPath="$PROJECT_DIR$/ceiling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ceiling/plasterboard-ceiling-installation.html" afterPath="$PROJECT_DIR$/ceiling/plasterboard-ceiling-installation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doors.html" afterPath="$PROJECT_DIR$/doors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doors/how-to-choose-the-best-doors.html" afterPath="$PROJECT_DIR$/doors/how-to-choose-the-best-doors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floor.html" afterPath="$PROJECT_DIR$/floor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floor/secrets-of-laminate-laying.html" afterPath="$PROJECT_DIR$/floor/secrets-of-laminate-laying.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floor/subfloor-preparation-nuances.html" afterPath="$PROJECT_DIR$/floor/subfloor-preparation-nuances.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floor/substrates-for-laminate.html" afterPath="$PROJECT_DIR$/floor/substrates-for-laminate.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation.html" afterPath="$PROJECT_DIR$/foundation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/basement-leaks-how-to-solve-this-problem.html" afterPath="$PROJECT_DIR$/foundation/basement-leaks-how-to-solve-this-problem.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/foundation-and-basement-insulation.html" afterPath="$PROJECT_DIR$/foundation/foundation-and-basement-insulation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/foundation-formwork.html" afterPath="$PROJECT_DIR$/foundation/foundation-formwork.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/piling-foundation.html" afterPath="$PROJECT_DIR$/foundation/piling-foundation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/сrevice-foundation.html" afterPath="$PROJECT_DIR$/foundation/сrevice-foundation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade.html" afterPath="$PROJECT_DIR$/interior-and-facade.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade/all-you-wanted-to-know-about-the-interior-stairs.html" afterPath="$PROJECT_DIR$/interior-and-facade/all-you-wanted-to-know-about-the-interior-stairs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade/mineral-wool-as-coldprotection-and-soundproofing-material.html" afterPath="$PROJECT_DIR$/interior-and-facade/mineral-wool-as-coldprotection-and-soundproofing-material.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade/plaster-facades-all-secrets.html" afterPath="$PROJECT_DIR$/interior-and-facade/plaster-facades-all-secrets.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade/venecian-plaster-it-is-very-simple.html" afterPath="$PROJECT_DIR$/interior-and-facade/venecian-plaster-it-is-very-simple.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mansard.html" afterPath="$PROJECT_DIR$/mansard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mansard/how-to-build-a-veranda.html" afterPath="$PROJECT_DIR$/mansard/how-to-build-a-veranda.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mansard/mansard-insulation.html" afterPath="$PROJECT_DIR$/mansard/mansard-insulation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof.html" afterPath="$PROJECT_DIR$/roof.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/cement-sand-roof-tile.html" afterPath="$PROJECT_DIR$/roof/cement-sand-roof-tile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/cone-shaped-roof.html" afterPath="$PROJECT_DIR$/roof/cone-shaped-roof.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/flat-roof-waterproofing.html" afterPath="$PROJECT_DIR$/roof/flat-roof-waterproofing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/flat-roof.html" afterPath="$PROJECT_DIR$/roof/flat-roof.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/how-to-calculate-the-roof-slope.html" afterPath="$PROJECT_DIR$/roof/how-to-calculate-the-roof-slope.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/metal-roof-tile-soundproofing.html" afterPath="$PROJECT_DIR$/roof/metal-roof-tile-soundproofing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/slate-roof.html" afterPath="$PROJECT_DIR$/roof/slate-roof.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/all-about-rainwater.html" afterPath="$PROJECT_DIR$/services/all-about-rainwater.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/heating-systems-how-to-choose.html" afterPath="$PROJECT_DIR$/services/heating-systems-how-to-choose.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/new-look-at-radiators.html" afterPath="$PROJECT_DIR$/services/new-look-at-radiators.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/reserve-heating-systems.html" afterPath="$PROJECT_DIR$/services/reserve-heating-systems.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/sewage-treatment-systems.html" afterPath="$PROJECT_DIR$/services/sewage-treatment-systems.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/walls.html" afterPath="$PROJECT_DIR$/walls.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/walls/how-to-choose-walls-material.html" afterPath="$PROJECT_DIR$/walls/how-to-choose-walls-material.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/walls/walls-decoration-plasterboard.html" afterPath="$PROJECT_DIR$/walls/walls-decoration-plasterboard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/walls/wood-protection.html" afterPath="$PROJECT_DIR$/walls/wood-protection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/windows.html" afterPath="$PROJECT_DIR$/windows.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/windows/how-to-choose-the-best-windows.html" afterPath="$PROJECT_DIR$/windows/how-to-choose-the-best-windows.html" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -151,15 +23,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="slate-roof.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/roof/slate-roof.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-128.375">
-              <caret line="336" column="61" selection-start-line="336" selection-start-column="61" selection-end-line="336" selection-end-column="61" />
+            <state vertical-scroll-proportion="0.7303371">
+              <caret line="152" column="42" selection-start-line="152" selection-start-column="42" selection-end-line="152" selection-end-column="42" />
               <folding>
-                <marker date="1490789803000" expanded="true" signature="111:149" placeholder="..." />
-                <marker date="1490789803000" expanded="true" signature="258:296" placeholder="..." />
-                <marker date="1490789803000" expanded="true" signature="5281:5320" placeholder="..." />
+                <marker date="1490810499000" expanded="true" signature="108:146" placeholder="..." />
+                <marker date="1490810499000" expanded="true" signature="252:290" placeholder="..." />
+                <marker date="1490810499000" expanded="true" signature="2994:3033" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -425,10 +297,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wood-protection.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="wood-protection.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/walls/wood-protection.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8614232">
+            <state vertical-scroll-proportion="-28.125">
               <caret line="185" column="28" selection-start-line="185" selection-start-column="28" selection-end-line="185" selection-end-column="28" />
               <folding>
                 <marker date="1490809959000" expanded="true" signature="111:149" placeholder="..." />
@@ -468,7 +340,6 @@
         <option value="$PROJECT_DIR$/roof.html" />
         <option value="$PROJECT_DIR$/walls.html" />
         <option value="$PROJECT_DIR$/foundation.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/doors/how-to-choose-the-best-doors.html" />
         <option value="$PROJECT_DIR$/interior-and-facade.html" />
         <option value="$PROJECT_DIR$/floor.html" />
@@ -504,6 +375,7 @@
         <option value="$PROJECT_DIR$/walls/how-to-choose-walls-material.html" />
         <option value="$PROJECT_DIR$/walls/walls-decoration-plasterboard.html" />
         <option value="$PROJECT_DIR$/walls/wood-protection.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -893,18 +765,6 @@
             <marker date="1490645991000" expanded="true" signature="111:149" placeholder="..." />
             <marker date="1490645991000" expanded="true" signature="258:296" placeholder="..." />
             <marker date="1490645991000" expanded="true" signature="5014:5053" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.875">
-          <caret line="189" column="16" selection-start-line="189" selection-start-column="16" selection-end-line="189" selection-end-column="16" />
-          <folding>
-            <marker date="1490633228000" expanded="true" signature="108:146" placeholder="..." />
-            <marker date="1490633228000" expanded="true" signature="252:290" placeholder="..." />
-            <marker date="1490633228000" expanded="true" signature="2994:3033" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -1486,12 +1346,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/walls/wood-protection.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8614232">
+        <state vertical-scroll-proportion="-28.125">
           <caret line="185" column="28" selection-start-line="185" selection-start-column="28" selection-end-line="185" selection-end-column="28" />
           <folding>
             <marker date="1490809959000" expanded="true" signature="111:149" placeholder="..." />
             <marker date="1490809959000" expanded="true" signature="258:296" placeholder="..." />
             <marker date="1490809959000" expanded="true" signature="5307:5346" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7303371">
+          <caret line="152" column="42" selection-start-line="152" selection-start-column="42" selection-end-line="152" selection-end-column="42" />
+          <folding>
+            <marker date="1490810499000" expanded="true" signature="108:146" placeholder="..." />
+            <marker date="1490810499000" expanded="true" signature="252:290" placeholder="..." />
+            <marker date="1490810499000" expanded="true" signature="2994:3033" placeholder="..." />
           </folding>
         </state>
       </provider>
