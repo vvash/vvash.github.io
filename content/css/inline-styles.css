@@ -80,7 +80,7 @@
     ordered & tabbed in a way that represents the nesting of the generated HTML.
 */
 .gallery_colorbox {
-    cursor: url(../../plugins/image-zoom/img/zoomin.cur), pointer;
+    cursor: url(../plugins/image-zoom/img/zoomin.cur), pointer;
 }
 
 #cboxOverlay {
@@ -96,7 +96,7 @@
     margin-bottom: 40px;
     margin-left: 10px;
     margin-right: 10px;
-    background: #000 url('../../plugins/image-zoom/img/loading.gif') no-repeat center;
+    background: #000 url('../plugins/image-zoom/img/loading.gif') no-repeat center;
 }
 
 .cboxIframe {
@@ -143,7 +143,7 @@
 }
 
 #cboxLoadingGraphic {
-    background: url('../../plugins/image-zoom/img/loading.gif') no-repeat center center;
+    background: url('../plugins/image-zoom/img/loading.gif') no-repeat center center;
 }
 
 #cboxLoadingOverlay {
@@ -151,13 +151,13 @@
 }
 
 #cboxLoadingGraphic {
-    background: url('../../plugins/image-zoom/img/loading.gif') no-repeat center center;
+    background: url('../plugins/image-zoom/img/loading.gif') no-repeat center center;
 }
 
 #cboxLoadedContent {
     border: 5px solid #FFFFFF;
     background: #FFFFFF;
-    background: url('../../plugins/image-zoom/img/loading.gif') no-repeat center;
+    background: url('../plugins/image-zoom/img/loading.gif') no-repeat center;
 }
 
 /* these elements are buttons, and may need to have additional styles reset to avoid unwanted base styles */
@@ -180,7 +180,7 @@
     top: 50%;
     left: 5px;
     margin-top: -32px;
-    background: url('../../plugins/image-zoom/img/theme1.png') no-repeat 0px 0px;
+    background: url('../plugins/image-zoom/img/theme1.png') no-repeat 0px 0px;
     width: 28px;
     height: 65px;
     text-indent: -9999px;
@@ -195,7 +195,7 @@
     top: 50%;
     right: 5px;
     margin-top: -32px;
-    background: url('../../plugins/image-zoom/img/theme1.png') no-repeat -68px 0px;
+    background: url('../plugins/image-zoom/img/theme1.png') no-repeat -68px 0px;
     width: 28px;
     height: 65px;
     text-indent: -9999px;
@@ -210,7 +210,7 @@
     top: -8px;
     right: -16px;
     display: block;
-    background: url('../../plugins/image-zoom/img/theme1.png') no-repeat -30px 0px;
+    background: url('../plugins/image-zoom/img/theme1.png') no-repeat -30px 0px;
     width: 38px;
     height: 25px;
     text-indent: -9999px;
@@ -226,7 +226,7 @@
     left: 50%;
     margin-left: -32px;
     display: block;
-    background: url('../../plugins/image-zoom/img/theme1.png') no-repeat -16px -147px;
+    background: url('../plugins/image-zoom/img/theme1.png') no-repeat -16px -147px;
     width: 65px;
     height: 29px;
     text-indent: -9999px;
@@ -242,7 +242,7 @@
     left: 50%;
     margin-left: -32px;
     display: block;
-    background: url('../../plugins/image-zoom/img/theme1.png') no-repeat -16px -210px;
+    background: url('../plugins/image-zoom/img/theme1.png') no-repeat -16px -210px;
     width: 65px;
     height: 29px;
     text-indent: -9999px;
