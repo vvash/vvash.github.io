@@ -2,95 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f4ce0af-33cd-4944-a97d-4a71cb8a121a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/ceiling/plasterboard-ceiling-installation-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/foundation/foundation-and-basement-insulation-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/roof/flat-roof-waterproofing-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/roof/flat-roof-waterproofing-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/new-look-at-radiators-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/new-look-at-radiators-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/reserve-heating-systems-06.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/sewage-treatment-systems-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/services/sewage-treatment-systems-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-03.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-04.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/walls/how-to-choose-walls-material-05.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/walls/walls-decoration-plasterboard-01.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/images/walls/walls-decoration-plasterboard-02.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/js/admin/jquery.c00kie5152.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/js/scripts5152.php" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/doors/how-to-choose-the-best-doors.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/interior-and-facade/parquet-glue-choice.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/roof/flat-roof-waterproofing.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/services/new-look-at-radiators.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/services/reserve-heating-systems.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/services/sewage-treatment-systems.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/walls/walls-decoration-plasterboard.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wp-includes/js/comment-reply.min5b31.js" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/images/doors/how-to-choose-the-best-doors-01.jpg" afterPath="$PROJECT_DIR$/content/images/doors/how-to-choose-the-entrance-doors-01.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/images/doors/how-to-choose-the-best-doors-02.jpg" afterPath="$PROJECT_DIR$/content/images/doors/how-to-choose-the-entrance-doors-02.jpg" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/sedlex/inline_scripts/bbc2416b8bd0890ed809174f71644efc15f2724775b6.js" afterPath="$PROJECT_DIR$/content/js/inline-scripts.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/sedlex/inline_styles/c4d49df272d34c590b3fdd6524cc3e384bcbabde75b6.css" afterPath="$PROJECT_DIR$/content/css/inline-styles.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/dynamic-css5b31.css" afterPath="$PROJECT_DIR$/content/css/dynamic-css5b31.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/font-awesome.min5b31.css" afterPath="$PROJECT_DIR$/content/css/font-awesome.min5b31.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/fonts5b31.css" afterPath="$PROJECT_DIR$/content/css/fonts5b31.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/lightbox5b31.css" afterPath="$PROJECT_DIR$/content/css/lightbox5b31.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/main-stylesheet5b31.css" afterPath="$PROJECT_DIR$/content/css/main-stylesheet5b31.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/reset5b31.css" afterPath="$PROJECT_DIR$/content/css/reset5b31.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/responsive/desktop.css" afterPath="$PROJECT_DIR$/content/css/responsive/desktop.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/responsive/ipad.css" afterPath="$PROJECT_DIR$/content/css/responsive/ipad.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/responsive/phone.css" afterPath="$PROJECT_DIR$/content/css/responsive/phone.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/responsive5b31.css" afterPath="$PROJECT_DIR$/content/css/responsive5b31.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/content/themes/themenovomag/css/shortcodes5b31.css" afterPath="$PROJECT_DIR$/content/css/shortcodes5b31.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/floor/substrates-for-laminate.html" afterPath="$PROJECT_DIR$/doors/how-to-choose-the-entrance-doors.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.min1576.js" afterPath="$PROJECT_DIR$/content/js/jquery/jquery-migrate.min1576.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jqueryc1d8.js" afterPath="$PROJECT_DIR$/content/js/jquery/jqueryc1d8.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/ui/effect.mine899.js" afterPath="$PROJECT_DIR$/content/js/jquery/ui/effect.mine899.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ceiling.html" afterPath="$PROJECT_DIR$/ceiling.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ceiling/plasterboard-ceiling-installation.html" afterPath="$PROJECT_DIR$/ceiling/plasterboard-ceiling-installation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doors.html" afterPath="$PROJECT_DIR$/doors.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floor.html" afterPath="$PROJECT_DIR$/floor.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floor/secrets-of-laminate-laying.html" afterPath="$PROJECT_DIR$/floor/secrets-of-laminate-laying.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/floor/subfloor-preparation-nuances.html" afterPath="$PROJECT_DIR$/floor/subfloor-preparation-nuances.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation.html" afterPath="$PROJECT_DIR$/foundation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/basement-leaks-how-to-solve-this-problem.html" afterPath="$PROJECT_DIR$/foundation/basement-leaks-how-to-solve-this-problem.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/foundation-and-basement-insulation.html" afterPath="$PROJECT_DIR$/foundation/foundation-and-basement-insulation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/foundation-formwork.html" afterPath="$PROJECT_DIR$/foundation/foundation-formwork.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/piling-foundation.html" afterPath="$PROJECT_DIR$/foundation/piling-foundation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/foundation/сrevice-foundation.html" afterPath="$PROJECT_DIR$/foundation/сrevice-foundation.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade.html" afterPath="$PROJECT_DIR$/interior-and-facade.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade/all-you-wanted-to-know-about-the-interior-stairs.html" afterPath="$PROJECT_DIR$/interior-and-facade/all-you-wanted-to-know-about-the-interior-stairs.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade/mineral-wool-as-coldprotection-and-soundproofing-material.html" afterPath="$PROJECT_DIR$/interior-and-facade/mineral-wool-as-coldprotection-and-soundproofing-material.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade/plaster-facades-all-secrets.html" afterPath="$PROJECT_DIR$/interior-and-facade/plaster-facades-all-secrets.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/interior-and-facade/venecian-plaster-it-is-very-simple.html" afterPath="$PROJECT_DIR$/interior-and-facade/venecian-plaster-it-is-very-simple.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mansard.html" afterPath="$PROJECT_DIR$/mansard.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mansard/how-to-build-a-veranda.html" afterPath="$PROJECT_DIR$/mansard/how-to-build-a-veranda.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mansard/mansard-insulation.html" afterPath="$PROJECT_DIR$/mansard/mansard-insulation.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof.html" afterPath="$PROJECT_DIR$/roof.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/cement-sand-roof-tile.html" afterPath="$PROJECT_DIR$/roof/cement-sand-roof-tile.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/cone-shaped-roof.html" afterPath="$PROJECT_DIR$/roof/cone-shaped-roof.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/flat-roof.html" afterPath="$PROJECT_DIR$/roof/flat-roof.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/how-to-calculate-the-roof-slope.html" afterPath="$PROJECT_DIR$/roof/how-to-calculate-the-roof-slope.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/metal-roof-tile-soundproofing.html" afterPath="$PROJECT_DIR$/roof/metal-roof-tile-soundproofing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/roof/slate-roof.html" afterPath="$PROJECT_DIR$/roof/slate-roof.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services.html" afterPath="$PROJECT_DIR$/services.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/all-about-rainwater.html" afterPath="$PROJECT_DIR$/services/all-about-rainwater.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/services/heating-systems-how-to-choose.html" afterPath="$PROJECT_DIR$/services/heating-systems-how-to-choose.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/walls.html" afterPath="$PROJECT_DIR$/walls.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/walls/how-to-choose-walls-material.html" afterPath="$PROJECT_DIR$/walls/how-to-choose-walls-material.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/walls/wood-protection.html" afterPath="$PROJECT_DIR$/walls/wood-protection.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/windows.html" afterPath="$PROJECT_DIR$/windows.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/windows/how-to-choose-the-best-windows.html" afterPath="$PROJECT_DIR$/windows/how-to-choose-the-best-windows.html" />
     </list>
     <ignored path=".idea/dataSources.local.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -109,39 +22,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="floor.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/floor.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-              <folding>
-                <marker date="1491160542687" expanded="true" signature="111:149" ph="..." />
-                <marker date="1491160542687" expanded="true" signature="258:296" ph="..." />
-                <marker date="1491160542687" expanded="true" signature="4799:4838" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="foundation.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/foundation.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3672">
-              <caret line="216" column="55" lean-forward="false" selection-start-line="216" selection-start-column="55" selection-end-line="216" selection-end-column="55" />
-              <folding>
-                <marker date="1491160543260" expanded="true" signature="111:149" ph="..." />
-                <marker date="1491160543260" expanded="true" signature="258:296" ph="..." />
-                <marker date="1491160543260" expanded="true" signature="4652:4691" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="interior-and-facade.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/interior-and-facade.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="221" column="89" lean-forward="false" selection-start-line="221" selection-start-column="89" selection-end-line="221" selection-end-column="89" />
+            <state relative-caret-position="493">
+              <caret line="227" column="84" lean-forward="true" selection-start-line="226" selection-start-column="35" selection-end-line="227" selection-end-column="84" />
               <folding>
                 <marker date="1491160542847" expanded="true" signature="111:149" ph="..." />
                 <marker date="1491160542847" expanded="true" signature="258:296" ph="..." />
@@ -151,43 +36,85 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="143" column="69" lean-forward="false" selection-start-line="143" selection-start-column="69" selection-end-line="143" selection-end-column="69" />
+              <folding>
+                <marker date="1491162036212" expanded="true" signature="108:146" ph="..." />
+                <marker date="1491162036212" expanded="true" signature="252:290" ph="..." />
+                <marker date="1491162036212" expanded="true" signature="2874:2913" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="secrets-of-laminate-laying.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/floor/secrets-of-laminate-laying.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="72" column="68" lean-forward="true" selection-start-line="72" selection-start-column="68" selection-end-line="72" selection-end-column="68" />
+              <folding>
+                <marker date="1491159210947" expanded="true" signature="111:149" ph="..." />
+                <marker date="1491159210947" expanded="true" signature="258:296" ph="..." />
+                <marker date="1491159210947" expanded="true" signature="4862:4901" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="venecian-plaster-it-is-very-simple.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interior-and-facade/venecian-plaster-it-is-very-simple.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="162" column="121" lean-forward="false" selection-start-line="160" selection-start-column="39" selection-end-line="162" selection-end-column="121" />
+              <folding>
+                <marker date="1491159702125" expanded="true" signature="111:149" ph="..." />
+                <marker date="1491159702125" expanded="true" signature="258:296" ph="..." />
+                <marker date="1491159702125" expanded="true" signature="4885:4924" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="mansard.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mansard.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="85" lean-forward="false" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
+            <state relative-caret-position="340">
+              <caret line="179" column="49" lean-forward="false" selection-start-line="179" selection-start-column="49" selection-end-line="179" selection-end-column="49" />
               <folding>
-                <marker date="1491160542773" expanded="true" signature="111:149" ph="..." />
-                <marker date="1491160542773" expanded="true" signature="258:296" ph="..." />
-                <marker date="1491160542773" expanded="true" signature="5030:5069" ph="..." />
+                <marker date="1491161512566" expanded="true" signature="111:149" ph="..." />
+                <marker date="1491161512566" expanded="true" signature="258:296" ph="..." />
+                <marker date="1491161512566" expanded="true" signature="5030:5069" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="how-to-choose-walls-material.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/walls/how-to-choose-walls-material.html">
+      <file leaf-file-name="mansard-insulation.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mansard/mansard-insulation.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="629">
-              <caret line="172" column="83" lean-forward="true" selection-start-line="171" selection-start-column="27" selection-end-line="172" selection-end-column="83" />
+            <state relative-caret-position="384">
+              <caret line="164" column="82" lean-forward="false" selection-start-line="163" selection-start-column="39" selection-end-line="164" selection-end-column="82" />
               <folding>
-                <marker date="1491159702054" expanded="true" signature="111:149" ph="..." />
-                <marker date="1491159702054" expanded="true" signature="258:296" ph="..." />
-                <marker date="1491159702054" expanded="true" signature="4894:4933" ph="..." />
+                <marker date="1491159701675" expanded="true" signature="111:149" ph="..." />
+                <marker date="1491159701675" expanded="true" signature="258:296" ph="..." />
+                <marker date="1491159701675" expanded="true" signature="5003:5042" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="roof.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/roof.html">
+      <file leaf-file-name="how-to-build-a-veranda.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mansard/how-to-build-a-veranda.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-3332">
-              <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
+            <state relative-caret-position="374">
+              <caret line="163" column="52" lean-forward="false" selection-start-line="161" selection-start-column="39" selection-end-line="163" selection-end-column="52" />
               <folding>
-                <marker date="1491160543090" expanded="true" signature="111:149" ph="..." />
-                <marker date="1491160543090" expanded="true" signature="258:296" ph="..." />
-                <marker date="1491160543090" expanded="true" signature="5201:5240" ph="..." />
+                <marker date="1491159701900" expanded="true" signature="111:149" ph="..." />
+                <marker date="1491159701900" expanded="true" signature="258:296" ph="..." />
+                <marker date="1491159701900" expanded="true" signature="4850:4889" ph="..." />
               </folding>
             </state>
           </provider>
@@ -210,8 +137,8 @@
       <file leaf-file-name="wood-protection.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/walls/wood-protection.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="166" column="55" lean-forward="true" selection-start-line="164" selection-start-column="32" selection-end-line="166" selection-end-column="55" />
+            <state relative-caret-position="2822">
+              <caret line="166" column="55" lean-forward="false" selection-start-line="164" selection-start-column="32" selection-end-line="166" selection-end-column="55" />
               <folding>
                 <marker date="1491159702196" expanded="true" signature="111:149" ph="..." />
                 <marker date="1491159702196" expanded="true" signature="258:296" ph="..." />
@@ -221,7 +148,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="walls.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="walls.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/walls.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="680">
@@ -230,20 +157,6 @@
                 <marker date="1491160715990" expanded="true" signature="111:149" ph="..." />
                 <marker date="1491160715990" expanded="true" signature="258:296" ph="..." />
                 <marker date="1491160715990" expanded="true" signature="2931:2970" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="windows.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/windows.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="89" lean-forward="false" selection-start-line="15" selection-start-column="89" selection-end-line="15" selection-end-column="89" />
-              <folding>
-                <marker date="1491160542929" expanded="true" signature="111:149" ph="..." />
-                <marker date="1491160542929" expanded="true" signature="258:296" ph="..." />
-                <marker date="1491160542929" expanded="true" signature="5286:5325" ph="..." />
               </folding>
             </state>
           </provider>
@@ -292,7 +205,6 @@
         <option value="$PROJECT_DIR$/services/sewage-treatment-systems.html" />
         <option value="$PROJECT_DIR$/walls/walls-decoration-plasterboard.html" />
         <option value="$PROJECT_DIR$/floor/parquet-glue-choice.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/services/reserve-heating-systems.html" />
         <option value="$PROJECT_DIR$/doors/how-to-choose-the-best-doors.html" />
         <option value="$PROJECT_DIR$/foundation/basement-leaks-how-to-solve-this-problem.html" />
@@ -328,10 +240,11 @@
         <option value="$PROJECT_DIR$/foundation.html" />
         <option value="$PROJECT_DIR$/interior-and-facade.html" />
         <option value="$PROJECT_DIR$/roof.html" />
-        <option value="$PROJECT_DIR$/mansard.html" />
         <option value="$PROJECT_DIR$/windows.html" />
         <option value="$PROJECT_DIR$/services.html" />
         <option value="$PROJECT_DIR$/walls.html" />
+        <option value="$PROJECT_DIR$/mansard.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -366,6 +279,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -379,37 +293,8 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vvash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vvash.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="walls" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vvash.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vvash.github.io" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="doors" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -529,31 +414,33 @@
       <updated>1488891026195</updated>
       <workItem from="1488891029231" duration="4618000" />
       <workItem from="1491131720794" duration="25223000" />
+      <workItem from="1491160998584" duration="1043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29841000" />
+    <option name="totallyTimeSpent" value="30884000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.11666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32751092" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32942554" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32751092" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -576,22 +463,8 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/services/new-look-at-radiators.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="154" column="29" lean-forward="false" selection-start-line="154" selection-start-column="29" selection-end-line="154" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-includes/js/comment-reply.min5b31.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/services/new-look-at-radiators.html" />
+    <entry file="file://$PROJECT_DIR$/wp-includes/js/comment-reply.min5b31.js" />
     <entry file="file://$PROJECT_DIR$/content/themes/themenovomag/images/loading.gif">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -612,58 +485,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="45" column="20" lean-forward="false" selection-start-line="45" selection-start-column="20" selection-end-line="45" selection-end-column="20" />
-          <folding>
-            <marker date="1491138914258" expanded="true" signature="108:146" ph="..." />
-            <marker date="1491138914258" expanded="true" signature="252:290" ph="..." />
-            <marker date="1491138914258" expanded="true" signature="2874:2913" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/content/themes/themenovomag/js/scripts5152.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-603">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/floor/substrates-for-laminate.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-799">
-          <caret line="165" column="30" lean-forward="false" selection-start-line="165" selection-start-column="30" selection-end-line="165" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/reserve-heating-systems.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="935">
-          <caret line="336" column="24" lean-forward="false" selection-start-line="336" selection-start-column="24" selection-end-line="336" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/services/sewage-treatment-systems.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="175" column="102" lean-forward="false" selection-start-line="175" selection-start-column="102" selection-end-line="175" selection-end-column="102" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/roof/flat-roof-waterproofing.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="266" column="93" lean-forward="true" selection-start-line="266" selection-start-column="93" selection-end-line="266" selection-end-column="93" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/content/themes/themenovomag/js/scripts5152.php" />
+    <entry file="file://$PROJECT_DIR$/floor/substrates-for-laminate.html" />
+    <entry file="file://$PROJECT_DIR$/services/reserve-heating-systems.html" />
+    <entry file="file://$PROJECT_DIR$/services/sewage-treatment-systems.html" />
+    <entry file="file://$PROJECT_DIR$/roof/flat-roof-waterproofing.html" />
     <entry file="file://$PROJECT_DIR$/content/themes/themenovomag/js/jquery.isotope.min5b31.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="197">
@@ -672,35 +498,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/walls/walls-decoration-plasterboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3263">
-          <caret line="572" column="10" lean-forward="true" selection-start-line="572" selection-start-column="10" selection-end-line="572" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/walls/walls-decoration-plasterboard.html" />
     <entry file="file://$PROJECT_DIR$/ceiling/plasterboard-ceiling-installation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="94" column="72" lean-forward="false" selection-start-line="94" selection-start-column="72" selection-end-line="94" selection-end-column="72" />
-          <folding>
-            <marker date="1491159210711" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159210711" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159210711" expanded="true" signature="5279:5318" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/floor/secrets-of-laminate-laying.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="84" column="72" lean-forward="false" selection-start-line="84" selection-start-column="72" selection-end-line="84" selection-end-column="72" />
-          <folding>
-            <marker date="1491159210947" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159210947" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159210947" expanded="true" signature="4862:4901" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -708,11 +510,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="84" column="72" lean-forward="false" selection-start-line="84" selection-start-column="72" selection-end-line="84" selection-end-column="72" />
-          <folding>
-            <marker date="1491159211415" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159211415" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159211415" expanded="true" signature="4857:4896" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -720,11 +517,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="158" column="106" lean-forward="false" selection-start-line="158" selection-start-column="106" selection-end-line="158" selection-end-column="106" />
-          <folding>
-            <marker date="1491159210559" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159210559" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159210559" expanded="true" signature="4674:4713" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,12 +524,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="158" column="103" lean-forward="false" selection-start-line="158" selection-start-column="103" selection-end-line="158" selection-end-column="103" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1491159211107" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159211107" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159211107" expanded="true" signature="4673:4712" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -745,12 +531,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="172" column="61" lean-forward="false" selection-start-line="172" selection-start-column="61" selection-end-line="172" selection-end-column="61" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1491159211183" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159211183" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159211183" expanded="true" signature="5239:5278" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -758,12 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2244">
           <caret line="12" column="88" lean-forward="false" selection-start-line="12" selection-start-column="88" selection-end-line="12" selection-end-column="88" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1491159210635" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159210635" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159210635" expanded="true" signature="5071:5110" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -771,13 +545,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-765">
           <caret line="81" column="72" lean-forward="false" selection-start-line="81" selection-start-column="72" selection-end-line="81" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#p#0;n#blockquote#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#blockquote#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1491159211031" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159211031" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159211031" expanded="true" signature="4692:4731" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -785,11 +552,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="156" column="151" lean-forward="false" selection-start-line="156" selection-start-column="151" selection-end-line="156" selection-end-column="151" />
-          <folding>
-            <marker date="1491159210796" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159210796" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159210796" expanded="true" signature="4704:4743" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,23 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-833">
           <caret line="83" column="72" lean-forward="false" selection-start-line="83" selection-start-column="72" selection-end-line="83" selection-end-column="72" />
-          <folding>
-            <marker date="1491159210869" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159210869" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159210869" expanded="true" signature="4892:4931" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interior-and-facade/venecian-plaster-it-is-very-simple.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="83" column="72" lean-forward="false" selection-start-line="83" selection-start-column="72" selection-end-line="83" selection-end-column="72" />
-          <folding>
-            <marker date="1491159702125" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159702125" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159702125" expanded="true" signature="4885:4924" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -821,35 +566,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="86" column="72" lean-forward="false" selection-start-line="86" selection-start-column="72" selection-end-line="86" selection-end-column="72" />
-          <folding>
-            <marker date="1491159211338" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159211338" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159211338" expanded="true" signature="5187:5226" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mansard/how-to-build-a-veranda.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="88" lean-forward="false" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
-          <folding>
-            <marker date="1491159701900" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159701900" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159701900" expanded="true" signature="4850:4889" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mansard/mansard-insulation.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="160" column="93" lean-forward="false" selection-start-line="160" selection-start-column="93" selection-end-line="160" selection-end-column="93" />
-          <folding>
-            <marker date="1491159701675" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159701675" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159701675" expanded="true" signature="5003:5042" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -857,11 +573,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="88" lean-forward="false" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
-          <folding>
-            <marker date="1491159701453" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159701453" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159701453" expanded="true" signature="4882:4921" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -869,11 +580,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="88" lean-forward="false" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
-          <folding>
-            <marker date="1491159702499" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159702499" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159702499" expanded="true" signature="4848:4887" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -881,11 +587,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="88" lean-forward="false" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
-          <folding>
-            <marker date="1491159701820" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159701820" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159701820" expanded="true" signature="4845:4884" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -893,11 +594,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="15" column="88" lean-forward="false" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
-          <folding>
-            <marker date="1491159702425" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159702425" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159702425" expanded="true" signature="4868:4907" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -905,11 +601,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="15" column="88" lean-forward="false" selection-start-line="15" selection-start-column="88" selection-end-line="15" selection-end-column="88" />
-          <folding>
-            <marker date="1491159701746" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159701746" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159701746" expanded="true" signature="4887:4926" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -917,11 +608,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="160" column="96" lean-forward="false" selection-start-line="160" selection-start-column="96" selection-end-line="160" selection-end-column="96" />
-          <folding>
-            <marker date="1491159702352" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159702352" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159702352" expanded="true" signature="4837:4876" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -929,11 +615,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="88" lean-forward="false" selection-start-line="14" selection-start-column="88" selection-end-line="14" selection-end-column="88" />
-          <folding>
-            <marker date="1491159701977" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159701977" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159701977" expanded="true" signature="4858:4897" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -941,11 +622,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="159" column="72" lean-forward="false" selection-start-line="159" selection-start-column="72" selection-end-line="159" selection-end-column="72" />
-          <folding>
-            <marker date="1491159702278" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159702278" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159702278" expanded="true" signature="4860:4899" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -953,11 +629,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <marker date="1491159701602" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159701602" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159701602" expanded="true" signature="4875:4914" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -965,11 +636,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="144" column="23" lean-forward="false" selection-start-line="144" selection-start-column="23" selection-end-line="144" selection-end-column="23" />
-          <folding>
-            <marker date="1491160053637" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491160053637" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491160053637" expanded="true" signature="2910:2949" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -977,11 +643,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-          <folding>
-            <marker date="1491160543177" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491160543177" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491160543177" expanded="true" signature="4843:4882" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -989,11 +650,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
           <caret line="166" column="173" lean-forward="true" selection-start-line="166" selection-start-column="27" selection-end-line="166" selection-end-column="173" />
-          <folding>
-            <marker date="1491159211489" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491159211489" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491159211489" expanded="true" signature="4877:4916" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1001,11 +657,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-680">
           <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
-          <folding>
-            <marker date="1491160542492" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491160542492" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491160542492" expanded="true" signature="4808:4847" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1033,33 +684,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interior-and-facade.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="221" column="89" lean-forward="false" selection-start-line="221" selection-start-column="89" selection-end-line="221" selection-end-column="89" />
-          <folding>
-            <marker date="1491160542847" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491160542847" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491160542847" expanded="true" signature="4656:4695" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mansard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="85" lean-forward="false" selection-start-line="12" selection-start-column="85" selection-end-line="12" selection-end-column="85" />
-          <folding>
-            <marker date="1491160542773" expanded="true" signature="111:149" ph="..." />
-            <marker date="1491160542773" expanded="true" signature="258:296" ph="..." />
-            <marker date="1491160542773" expanded="true" signature="5030:5069" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/roof.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3332">
+        <state relative-caret-position="238">
           <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
           <folding>
             <marker date="1491160543090" expanded="true" signature="111:149" ph="..." />
@@ -1083,8 +710,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/walls/how-to-choose-walls-material.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="629">
-          <caret line="172" column="83" lean-forward="true" selection-start-line="171" selection-start-column="27" selection-end-line="172" selection-end-column="83" />
+        <state relative-caret-position="2924">
+          <caret line="172" column="83" lean-forward="false" selection-start-line="171" selection-start-column="27" selection-end-line="172" selection-end-column="83" />
           <folding>
             <marker date="1491159702054" expanded="true" signature="111:149" ph="..." />
             <marker date="1491159702054" expanded="true" signature="258:296" ph="..." />
@@ -1095,8 +722,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/walls/wood-protection.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="166" column="55" lean-forward="true" selection-start-line="164" selection-start-column="32" selection-end-line="166" selection-end-column="55" />
+        <state relative-caret-position="2822">
+          <caret line="166" column="55" lean-forward="false" selection-start-line="164" selection-start-column="32" selection-end-line="166" selection-end-column="55" />
           <folding>
             <marker date="1491159702196" expanded="true" signature="111:149" ph="..." />
             <marker date="1491159702196" expanded="true" signature="258:296" ph="..." />
@@ -1117,6 +744,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/interior-and-facade.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="227" column="84" lean-forward="true" selection-start-line="226" selection-start-column="35" selection-end-line="227" selection-end-column="84" />
+          <folding>
+            <marker date="1491160542847" expanded="true" signature="111:149" ph="..." />
+            <marker date="1491160542847" expanded="true" signature="258:296" ph="..." />
+            <marker date="1491160542847" expanded="true" signature="4656:4695" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/walls.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
@@ -1125,6 +764,78 @@
             <marker date="1491160715990" expanded="true" signature="111:149" ph="..." />
             <marker date="1491160715990" expanded="true" signature="258:296" ph="..." />
             <marker date="1491160715990" expanded="true" signature="2931:2970" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mansard/how-to-build-a-veranda.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="163" column="52" lean-forward="false" selection-start-line="161" selection-start-column="39" selection-end-line="163" selection-end-column="52" />
+          <folding>
+            <marker date="1491159701900" expanded="true" signature="111:149" ph="..." />
+            <marker date="1491159701900" expanded="true" signature="258:296" ph="..." />
+            <marker date="1491159701900" expanded="true" signature="4850:4889" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mansard.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="179" column="49" lean-forward="false" selection-start-line="179" selection-start-column="49" selection-end-line="179" selection-end-column="49" />
+          <folding>
+            <marker date="1491161512566" expanded="true" signature="111:149" ph="..." />
+            <marker date="1491161512566" expanded="true" signature="258:296" ph="..." />
+            <marker date="1491161512566" expanded="true" signature="5030:5069" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mansard/mansard-insulation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="164" column="82" lean-forward="false" selection-start-line="163" selection-start-column="39" selection-end-line="164" selection-end-column="82" />
+          <folding>
+            <marker date="1491159701675" expanded="true" signature="111:149" ph="..." />
+            <marker date="1491159701675" expanded="true" signature="258:296" ph="..." />
+            <marker date="1491159701675" expanded="true" signature="5003:5042" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interior-and-facade/venecian-plaster-it-is-very-simple.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="162" column="121" lean-forward="false" selection-start-line="160" selection-start-column="39" selection-end-line="162" selection-end-column="121" />
+          <folding>
+            <marker date="1491159702125" expanded="true" signature="111:149" ph="..." />
+            <marker date="1491159702125" expanded="true" signature="258:296" ph="..." />
+            <marker date="1491159702125" expanded="true" signature="4885:4924" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/floor/secrets-of-laminate-laying.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="72" column="68" lean-forward="true" selection-start-line="72" selection-start-column="68" selection-end-line="72" selection-end-column="68" />
+          <folding>
+            <marker date="1491159210947" expanded="true" signature="111:149" ph="..." />
+            <marker date="1491159210947" expanded="true" signature="258:296" ph="..." />
+            <marker date="1491159210947" expanded="true" signature="4862:4901" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="143" column="69" lean-forward="false" selection-start-line="143" selection-start-column="69" selection-end-line="143" selection-end-column="69" />
+          <folding>
+            <marker date="1491162036212" expanded="true" signature="108:146" ph="..." />
+            <marker date="1491162036212" expanded="true" signature="252:290" ph="..." />
+            <marker date="1491162036212" expanded="true" signature="2874:2913" ph="..." />
           </folding>
         </state>
       </provider>
